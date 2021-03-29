@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Eduardo Marcelo Nicastro de Carvalho",
+      "email": "marcelonicastro@gmail.com",
+      "xp": 0,
+      "highscore": 0
+    }
+  ],
+
+  "categories": [
+    {
+      "id": 1,
+      "name": "Families",
+      "image": "https://images.freeimages.com/images/large-previews/b48/paper-family-1186206.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Numbers",
+      "image": "https://images.freeimages.com/images/large-previews/b51/numbers-1239331.jpg"
+    },
+    {
+      "name": "Testando Alterado",
+      "image": "https://images.freeimages.com/images/large-previews/b48/paper-family-1186206.jpg",
+      "id": 3
+    }
+  ]
+}
